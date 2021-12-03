@@ -1,0 +1,458 @@
+.QLNDAddmain{
+    position: absolute;
+    width: 1080px;
+    height: 342px;
+    left: 255px;
+    top: 150px;
+
+    /* White */
+
+    background: #FFFFFF;
+    border-radius: 16px;
+    }
+
+    .tdn{
+        position: absolute;
+        top:35px;
+        left:50px;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 16px;
+        line-height: 20px;
+        /* identical to box height */
+
+        display: flex;
+        align-items: center;
+
+        /* Blue/7 */
+
+        color: #114A69;
+
+        opacity: 0.8;
+    }
+
+    .namelogin1{
+        position: absolute;
+        top:32px;
+        left:180px;
+        background: #FFFFFF;
+        /* Grey/4 */
+
+        border: 1px solid #ACBCD1;
+        box-sizing: border-box;
+        border-radius: 8px;
+        width:250px;
+        height: 30px;
+    }
+
+    .ntdn5{
+        position: absolute;
+        top:38px;
+        left:185px;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 20px;
+        color: #ACBCD1;
+    }
+
+    .email5{
+        position: absolute;
+        top:95px;
+        left:50px;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 16px;
+        line-height: 20px;
+        /* identical to box height */
+
+        display: flex;
+        align-items: center;
+
+        /* Blue/7 */
+
+        color: #114A69;
+
+        opacity: 0.8;
+    }
+
+    .nameemail5{
+        position: absolute;
+        top:90px;
+        left:180px;
+        background: #FFFFFF;
+        /* Grey/4 */
+
+        border: 1px solid #ACBCD1;
+        box-sizing: border-box;
+        border-radius: 8px;
+        width:250px;
+        height: 30px;
+    }
+
+    .nemail5{
+        position: absolute;
+        top:95px;
+        left:185px;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 20px;
+        color: #ACBCD1;
+    }
+
+    .cdvql5{
+        position: absolute;
+        top:155px;
+        left:35px;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 16px;
+        line-height: 20px;
+        /* identical to box height */
+
+        display: flex;
+        align-items: center;
+
+        /* Blue/7 */
+
+        color: #114A69;
+
+        opacity: 0.8;
+    }
+
+    .vlc5{
+        position: absolute;
+        top:150px;
+        left:180px;
+        background: #FFFFFF;
+        /* Grey/4 */
+
+        border: 1px solid #ACBCD1;
+        box-sizing: border-box;
+        border-radius: 8px;
+        width:250px;
+        height: 30px;
+    }
+
+    .vlc8{
+        position: absolute;
+        top:155px;
+        left:185px;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 20px;
+        color: #ACBCD1;
+    }
+
+    .dropdown69{
+        position: absolute;
+        top:160px;
+        left:400px;
+    }
+
+    .matkhau69{
+        position: absolute;
+        top:215px;
+        left:50px;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 16px;
+        line-height: 20px;
+        /* identical to box height */
+
+        display: flex;
+        align-items: center;
+
+        /* Blue/7 */
+
+        color: #114A69;
+
+        opacity: 0.8;
+    }
+
+    .chedau55{
+        position: absolute;
+        top:210px;
+        left:180px;
+        background: #FFFFFF;
+        /* Grey/4 */
+
+        border: 1px solid #ACBCD1;
+        box-sizing: border-box;
+        border-radius: 8px;
+        width:250px;
+        height: 30px;
+    }
+
+    .bacham{
+        position: absolute;
+        top:215px;
+        left:200px;
+        color: #ACBCD1;
+        
+    }
+
+    .chedau1{
+        position: absolute;
+        top:220px;
+        left:400px;
+    }
+
+    .fullname{
+        position: absolute;
+        top:35px;
+        left:550px;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 16px;
+        line-height: 20px;
+        /* identical to box height */
+
+        display: flex;
+        align-items: center;
+
+        /* Blue/7 */
+
+        color: #114A69;
+
+        opacity: 0.8;
+    }
+
+    .nhvt5{
+        position: absolute;
+        top:30px;
+        left:680px;
+        background: #FFFFFF;
+        /* Grey/4 */
+
+        border: 1px solid #ACBCD1;
+        box-sizing: border-box;
+        border-radius: 8px;
+        width:250px;
+        height: 30px;
+    }
+
+    .nhvt6{
+        position: absolute;
+        top:35px;
+        left:685px;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 20px;
+        color: #ACBCD1;
+    }
+
+    .sdt6{
+        position: absolute;
+        top:95px;
+        left:550px;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 16px;
+        line-height: 20px;
+        /* identical to box height */
+
+        display: flex;
+        align-items: center;
+
+        /* Blue/7 */
+
+        color: #114A69;
+
+        opacity: 0.8;
+    }
+
+    .nsdt6{
+        position: absolute;
+        top:90px;
+        left:680px;
+        background: #FFFFFF;
+        /* Grey/4 */
+
+        border: 1px solid #ACBCD1;
+        box-sizing: border-box;
+        border-radius: 8px;
+        width:250px;
+        height: 30px;
+    }
+
+    .nsdt7{
+        position: absolute;
+        top:95px;
+        left:685px;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 20px;
+        color: #ACBCD1;
+    }
+
+    .qtc7{
+        position: absolute;
+        top:160px;
+        left:550px;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 16px;
+        line-height: 20px;
+        /* identical to box height */
+
+        display: flex;
+        align-items: center;
+
+        /* Blue/7 */
+
+        color: #114A69;
+
+        opacity: 0.8;
+    }
+
+    .vlc10{
+        position: absolute;
+        top:155px;
+        left:680px;
+        background: #FFFFFF;
+        /* Grey/4 */
+
+        border: 1px solid #ACBCD1;
+        box-sizing: border-box;
+        border-radius: 8px;
+        width:250px;
+        height: 30px;
+    }
+
+    .vlc11{
+        position: absolute;
+        top:160px;
+        left:685px;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 20px;
+        color: #ACBCD1;
+    }
+
+    .dropdown70{
+        position: absolute;
+        top:163px;
+        left:900px;
+    }
+
+    .xnmk10{
+        position: absolute;
+        top:215px;
+        left:535px;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 16px;
+        line-height: 20px;
+        /* identical to box height */
+
+        display: flex;
+        align-items: center;
+
+        /* Blue/7 */
+
+        color: #114A69;
+
+        opacity: 0.8;
+
+    }
+
+    .chedau49{
+        position: absolute;
+        top:210px;
+        left:680px;
+        background: #FFFFFF;
+        /* Grey/4 */
+
+        border: 1px solid #ACBCD1;
+        box-sizing: border-box;
+        border-radius: 8px;
+        width:250px;
+        height: 30px;
+    }
+    .bacham09{
+        position: absolute;
+        top:215px;
+        left:685px;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 20px;
+        color: #ACBCD1;
+    }
+
+    .chedau2{
+        position: absolute;
+        top:217px;
+        left:900px;
+    }
+
+    .officialinfor{
+        position: absolute;
+        top:240px;
+        left:750px;
+        font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+    color: #091F3A;
+
+opacity: 0.5;
+    }
+
+
+    .tim552{
+        top:380px;
+        left:350px;
+        position: absolute;
+        width:80px;
+        height:35px;
+        border:1px solid #2190CD;
+        border-radius: 16px;
+    }
+    
+    .tim662{
+        color:#2190CD;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: 800;
+    }
+    
+    .tim772{
+        top:380px;
+        left:450px;
+        position: absolute;
+        width:80px;
+        height:35px;
+        border:1px solid #647586;
+        background: #647586;
+        border-radius: 16px;
+    }
+    
+    .tim882{
+        color:white;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: 800;
+    }

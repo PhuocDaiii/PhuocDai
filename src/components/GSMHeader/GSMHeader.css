@@ -1,0 +1,48 @@
+.NameHeader{
+    position: absolute;
+    left: 100px;
+    top:1px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+}
+
+.NameDiemgiamsat{
+    position: absolute;
+    left: 250px;
+    top:10px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.search-text{
+   height: 25px;
+   width : 200px;
+   background-color: white;
+   position: absolute;
+   top:20px;
+   left:380px;
+  
+}
+.searchicon{
+    position: absolute;
+    left: 180px;
+    top:5px;
+}

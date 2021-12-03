@@ -1,0 +1,473 @@
+.qlndupdatE11{
+    position: absolute;
+    width: 1090px;
+    height: 570px;
+    left: 250px;
+    top: 80px;
+
+    /* White */
+
+    background: #FFFFFF;
+    border-radius: 16px;
+}
+
+
+.qlndupdatelfet{
+    position: absolute;
+    width: 280px;
+    height: 545px;
+    left: 15px;
+    top: 15px;
+
+    /* White */
+
+    background: #FFFFFF;
+    /* Grey/3 */
+
+    border: 1px solid #DEE1E2;
+    box-sizing: border-box;
+    border-radius: 16px;
+}
+
+.login105{
+    position: absolute;
+    top:5px;
+    left:10px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.namelogin1050{
+    position: absolute;
+    top:40px;
+    left:10px;
+    width :230px;
+    height:30px;
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.tuyennguyen{
+    position: absolute;
+    top:45px;
+    left:20px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;
+
+}
+
+.login1056{
+    position: absolute;
+    top:80px;
+    left:10px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.namelogin10501{
+    position: absolute;
+    top:105px;
+    left:10px;
+    width :230px;
+    height:30px;
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+
+.tuyennguyen1{
+    position: absolute;
+    top:110px;
+    left:20px;
+    font-family: Mulish;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+display: flex;
+align-items: center;
+
+/* Blue/8 */
+
+color: #091F3A;
+
+opacity: 0.8;
+
+}
+
+
+.login10567{
+    position: absolute;
+    top:145px;
+    left:10px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.namelogin105012{
+    position: absolute;
+    top:175px;
+    left:10px;
+    width :230px;
+    height:30px;
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.tuyennguyen2{
+    position: absolute;
+    top:180px;
+    left:15px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;
+}
+
+.login105678{
+    position: absolute;
+    top:220px;
+    left:10px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.namelogin1050123{
+    position: absolute;
+    top:250px;
+    left:10px;
+    width :230px;
+    height:30px;
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.phonenumber{
+    position: absolute;
+    top:255px;
+    left:15px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;
+}
+
+.login1056789{
+    position: absolute;
+    top:285px;
+    left:10px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.namelogin10501234{
+    position: absolute;
+    top:310px;
+    left:10px;
+    width :230px;
+    height:30px;
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.hoisotphcm{
+    position: absolute;
+    top:315px;
+    left:15px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;
+}
+
+.yiazia{
+    position: absolute;
+    top:315px;
+    left:215px;
+}
+
+.login105678910{
+    position: absolute;
+    top:350px;
+    left:10px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.namelogin105012345{
+    position: absolute;
+    top:375px;
+    left:10px;
+    width :230px;
+    height:30px;
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.denthui{
+    position: absolute;
+    top:380px;
+    left:15px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;
+}
+
+.shenegan{
+    position: absolute;
+    top:380px;
+    left:210px;
+}
+
+.login10567891011{
+    position: absolute;
+    top:415px;
+    left:10px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.namelogin1050123456{
+    position: absolute;
+    top:440px;
+    left:10px;
+    width :230px;
+    height:30px;
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.denthui1{
+    position: absolute;
+    top:445px;
+    left:15px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;
+}
+
+.shenegan1{
+    position: absolute;
+    top:445px;
+    left:210px;
+}
+
+
+.bbbbbb{
+    position: absolute;
+    top:475px;
+    left:70px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height, or 150% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.005em;
+
+    /* Red */
+
+    color:grey;
+
+    opacity: 0.5;
+}
+
+.rightright{
+    position: absolute;
+    top:20px;
+    left:320px;
+}

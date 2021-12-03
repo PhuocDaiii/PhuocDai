@@ -1,0 +1,123 @@
+.Main111{
+    position: absolute;
+    width: 1090px;
+    height: 750px;
+    left: 250px;
+    top: 80px;
+
+    /* White */
+
+    background: #FFFFFF;
+    border-radius: 16px;
+    }
+
+.TQTC11{
+    position: absolute;
+    top:30px;
+    left:30px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.QTCa1{
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    left: 20px;
+    top: 52px;
+
+    /* White */
+
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.QTVa1{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    color: #091F3A;
+}
+ 
+.TTa1{
+    position: absolute;
+    top:85px;
+    left:24px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.chk11{
+    position: absolute;
+    top:105px;
+    left:24px;
+}
+.Dakichhoat{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+}
+
+.mainright{
+    position: absolute;
+    top:28px;
+    left:180px;
+}
+
+.tim55{
+    top:800px;
+    left:350px;
+    position: absolute;
+    width:80px;
+    height:35px;
+    border:1px solid #2190CD;
+}
+
+.tim66{
+    color:#2190CD;
+}
+
+.tim77{
+    top:800px;
+    left:450px;
+    position: absolute;
+    width:80px;
+    height:35px;
+    border:1px solid #2190CD;
+    background: #2190CD;
+}
+
+.tim88{
+    color:white;
+}

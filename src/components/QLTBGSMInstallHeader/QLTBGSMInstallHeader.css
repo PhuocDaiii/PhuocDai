@@ -1,0 +1,67 @@
+.qlhta100{
+    position: absolute;
+    top:50px;
+    left:250px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Grey/4 */
+
+    color: #ACBCD1;
+}
+.suyracc1{
+    position: absolute;
+    top:53px;
+    left:385px;
+}
+
+.qlhta101{
+    position: absolute;
+    top:50px;
+    left:410px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Grey/4 */
+
+    color: #ACBCD1;
+}
+
+.suyracc2{
+    position: absolute;
+    top:53px;
+    left:580px;
+}
+
+.qlhta102{
+    position: absolute;
+    top:45px;
+    left:600px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;
+}

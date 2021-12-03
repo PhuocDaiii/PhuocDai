@@ -1,0 +1,12 @@
+.Auditlog{
+    position: absolute;
+    top:170px;
+    left:250px;
+}
+
+th{
+    background-color: #EAF5FA !important;
+    padding:10px 10px 10px 10px;
+    color: #1085C5;
+    border: none;
+}

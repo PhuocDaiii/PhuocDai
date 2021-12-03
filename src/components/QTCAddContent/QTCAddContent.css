@@ -1,0 +1,141 @@
+.Main1111{
+    position: absolute;
+    width: 1090px;
+    height: 500px;
+    left: 250px;
+    top: 80px;
+
+    /* White */
+
+    background: #FFFFFF;
+    border-radius: 16px;
+    }
+
+.TQTC111{
+    position: absolute;
+    top:30px;
+    left:30px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.QTCa11{
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    left: 20px;
+    top: 52px;
+
+    /* White */
+
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.QTVa11{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Grey/4 */
+
+    color: #ACBCD1;
+
+}
+ 
+.TTa11{
+    position: absolute;
+    top:85px;
+    left:24px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.chk111{
+    position: absolute;
+    top:105px;
+    left:24px;
+}
+.Dakichhoat1{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+}
+
+.mainright1{
+    position: absolute;
+    top:28px;
+    left:180px;
+}
+
+.tim551{
+    top:520px;
+    left:350px;
+    position: absolute;
+    width:80px;
+    height:35px;
+    border:1px solid #2190CD;
+    border-radius: 16px;
+}
+
+.tim661{
+    color:#2190CD;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+}
+
+.tim771{
+    top:520px;
+    left:450px;
+    position: absolute;
+    width:80px;
+    height:35px;
+    border:1px solid #647586;
+    background: #647586;
+    border-radius: 16px;
+}
+
+.tim881{
+    color:white;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+}

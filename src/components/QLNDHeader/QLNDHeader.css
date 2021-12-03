@@ -1,0 +1,123 @@
+.QLHT991{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Grey/4 */
+
+    color: #ACBCD1;
+    position: absolute;
+    left:250px;
+    top:50px;
+}
+
+.QLHT981{
+    position: absolute;
+    left:400px;
+    top:45px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;
+}
+
+.suyra551{
+    position: absolute;
+    left:380px;
+    top:55px;
+}
+
+.QTC501{
+    position: absolute;
+    left:250px;
+    top:75px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+}
+
+.NQTC1{
+    position: absolute;
+    width: 200px;
+    height: 35px;
+    left: 250px;
+    top: 95px;
+
+    /* White */
+
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.NQTC11{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: #ACBCD1;
+}
+
+.btnlogin251{
+    position: absolute;
+    top:95px;
+    left:460px;
+    width: 80px;
+    height: 35px;
+    background: #2190CD;
+    /* Blue/5 */
+
+    border: 1px solid #2190CD;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.btntim251{
+    color: #FFFFFF;
+}
+
+.btnlogin261{
+    position: absolute;
+    top:95px;
+    left:1250px;
+    width: 90px;
+    height: 35px;
+    background: #2190CD;
+    /* Blue/5 */
+
+    border: 1px solid #2190CD;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.btntim261{
+    color: #FFFFFF;
+}

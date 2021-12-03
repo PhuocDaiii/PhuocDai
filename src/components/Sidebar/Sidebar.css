@@ -1,0 +1,200 @@
+.sidebarWrapper{
+    position: absolute;
+width: 210px;
+height: 1070px;
+left: 32px;
+top: 24px;
+
+/* White */
+
+background: #FFFFFF;
+border-radius: 12px;
+}
+
+.sidebarLogo
+{
+    width: 75px;
+    height: 75px;
+    background: #FF2D55;
+    border-radius: 40px 40px 40px 40px;
+    position: absolute;
+}
+.logo
+{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.sidebarTittle{
+    position: absolute;
+    top: 80px;
+    font-family: Mulish;
+    font-style: normal;
+    font-size: 16px;
+    left: 20px;
+    color: #114A69;
+}
+
+.Dashboard{
+    position: absolute;
+    top:120px;
+    left: 20px;
+}
+.nameDashboard{
+    position: absolute;
+    top:107px;
+    left: 50px;
+    font-family: Mulish;
+    font-style: normal;
+    font-size: 15px;
+  
+    color: #114A69;
+}
+.Grommet{
+    position: absolute;
+    top:150px;
+    left: 20px;
+}
+.GSM{
+    position: absolute;
+    top:140px;
+    left: 50px;
+    font-family: Mulish;
+    font-style: normal;
+    font-size: 15px;
+  
+    color: #114A69;
+}
+
+.a1{
+    position: absolute;
+    top:180px;
+    left: 20px;
+}
+.QLCB{
+    position: absolute;
+    top:170px;
+    left: 50px;
+    font-family: Mulish;
+    font-style: normal;
+    font-size: 15px;
+  
+    color: #114A69;
+}
+
+.BaoCao{
+    position: absolute;
+    top: 220px;
+    font-family: Mulish;
+    font-style: normal;
+    font-size: 16px;
+    left: 20px;
+    color: #114A69;
+}
+.a2{
+    position: absolute;
+    top:260px;
+    left: 20px;
+}
+
+.BC{
+    position: absolute;
+    top:250px;
+    left: 50px;
+    font-family: Mulish;
+    font-style: normal;
+    font-size: 15px;
+  
+    color: #114A69;
+}
+
+.ATM{
+    position: absolute;
+    top:285px;
+    left: 16px;
+}
+
+.BCATM{
+    position: absolute;
+    top:275px;
+    left: 50px;
+    font-family: Mulish;
+    font-style: normal;
+    font-size: 15px;
+  
+    color: #114A69;
+}
+
+.QLHT{
+    position: absolute;
+    top: 330px;
+    font-family: Mulish;
+    font-style: normal;
+    font-size: 16px;
+    left: 20px;
+    color: #114A69;
+}
+
+.Role{
+    position: absolute;
+    top:375px;
+    left: 16px;
+}
+.QTC{
+    position: absolute;
+    top:363px;
+    left: 50px;
+    font-family: Mulish;
+    font-style: normal;
+    font-size: 15px;
+  
+    color: #114A69;
+}
+
+.a3{
+    position: absolute;
+    top:415px;
+    left: 18px;
+}
+.QLTB{
+    position: absolute;
+    top:400px;
+    left: 50px;
+    font-family: Mulish;
+    font-style: normal;
+    font-size: 15px;
+  
+    color: #114A69;
+}
+
+.User{
+    position: absolute;
+    top:445px;
+    left: 18px;
+}
+.QLND{
+    position: absolute;
+    top:435px;
+    left: 50px;
+    font-family: Mulish;
+    font-style: normal;
+    font-size: 15px;
+  
+    color: #114A69;
+}
+
+.Oction{
+    position: absolute;
+    top:480px;
+    left: 20px;
+}
+.Audit{
+    position: absolute;
+    top:470px;
+    left: 50px;
+    font-family: Mulish;
+    font-style: normal;
+    font-size: 15px;
+  
+    color: #114A69;
+}
+

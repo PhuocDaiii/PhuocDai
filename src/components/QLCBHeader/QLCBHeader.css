@@ -1,0 +1,305 @@
+.Header{
+    position: absolute;
+    top: 50px;
+    left:250px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 4px;
+
+}
+
+.gsm{
+    position: absolute;
+    top: 100px;
+    left:250px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    
+    /* Blue/7 */
+    
+    color: #114A69;
+    
+    opacity: 0.8;
+}
+
+input{
+    position: absolute;
+    top: 120px;
+    left:250px;
+}
+
+.khuvuc{
+    position: absolute;
+    top: 100px;
+    left:430px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    
+    /* Blue/7 */
+    
+    color: #114A69;
+    
+    opacity: 0.8;
+}
+
+.input2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 11px 16px 13px;
+    
+    position: absolute;
+    width: 230px;
+    height: 30px;
+    left: 430px;
+    top: 120px;
+    
+    /* White */
+    
+    background: #FFFFFF;
+    /* Grey/3 */
+    
+    border: 1px solid #DEE1E2;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.NDC{
+    position: absolute;
+    top:5px;
+    left:10px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Grey/4 */
+
+    color: #ACBCD1;
+
+    opacity: 0.8;
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 0px;
+}
+
+.searchicon{
+    position: absolute;
+    left: 200px;
+    top:5px;
+}
+
+.input3{
+    display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 8px 12px;
+
+position: absolute;
+width: 230px;
+height: 30px;
+left: 670px;
+top: 120px;
+
+/* White */
+
+background: #FFFFFF;
+/* Grey/4 */
+
+border: 1px solid #ACBCD1;
+border-radius: 8px;
+}
+
+.LCB{
+position: absolute;
+
+right:130px;
+bottom: 15px;
+
+/* 16 Bold */
+
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* Blue/7 */
+
+color: #114A69;
+
+opacity: 0.8;
+}
+
+.dropdown4{
+    position: absolute;
+    left:195px;
+    top:5px;
+}
+
+.TC{
+  position: absolute;
+  top:5px;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: #114A69;
+  
+}
+
+.input4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 12px;
+    
+    position: absolute;
+    width: 180px;
+    height: 30px;
+    left: 910px;
+    top: 120px;
+    
+    /* White */
+    
+    background: #FFFFFF;
+    /* Grey/4 */
+    
+    border: 1px solid #ACBCD1;
+    border-radius: 8px;
+}
+.TT{
+   position: absolute;
+   left:5px;
+   bottom: 15px;
+   font-family: Mulish;
+   font-style: normal;
+   font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #114A69;
+}
+.dropdown5{
+    position: absolute;
+    left:150px;
+    top:5px;
+}
+
+.TC1{
+    position: absolute;
+    top:5px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: #114A69;
+}
+
+.time{
+    position: absolute;
+    top: 120px;
+    right:100px;
+}
+
+.TT1{
+    position: absolute;
+    top: 5px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+
+    /* Blue/8 */
+
+    color:  #E5E5E5;
+    
+}
+.TG{
+    position: absolute;
+    bottom: 20px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+   
+}
+.btnlogin6{
+    position: absolute;
+    top: 110px;
+    right:10px;
+    width: 80px;
+    height: 44px;
+    background: #2190CD;
+    /* Blue/5 */
+
+    border: 1px solid #2190CD;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.btntim{
+    text-align: center;
+
+/* Text/White */
+
+color: #FFFFFF;
+}

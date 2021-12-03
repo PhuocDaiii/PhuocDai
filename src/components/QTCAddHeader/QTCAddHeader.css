@@ -1,0 +1,68 @@
+.QLHTa11{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Grey/4 */
+
+    color: #ACBCD1;
+    position: absolute;
+    left:250px;
+    top:50px;
+}
+
+.suyra8871{
+    position: absolute;
+    left:380px;
+    top:55px;
+}
+
+.QLNDa11{
+    position: absolute;
+    left:400px;
+    top:50px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Grey/4 */
+
+    color: #ACBCD1;
+}
+
+.suyra8881{
+    position: absolute;
+    left:550px;
+    top:55px;
+}
+
+.Capnhat551{
+    position: absolute;
+    left:580px;
+    top:45px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;
+}

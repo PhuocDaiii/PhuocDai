@@ -1,0 +1,268 @@
+.BaoCao5{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Grey/4 */
+
+    color: #ACBCD1;
+    position: absolute;
+    top:70px;
+    left:250px;
+}
+
+.suyra{
+    position: absolute;
+    top:72px;
+    left:320px;
+}
+
+.BCTPGD{
+    position: absolute;
+    top:65px;
+    left:350px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+}
+
+.DVQL{
+    position: absolute;
+    top:100px;
+    left:250px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+}
+
+.NDVQL{
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+    position: absolute;
+    top:125px;
+    left:250px;
+    width: 150px;
+    height: 35px;
+}
+
+.WriteNDVQl{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Grey/4 */
+
+    color: #ACBCD1;
+
+}
+
+.LCB5{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+    position: absolute;
+    top:100px;
+    left:420px;
+}
+
+.TC8{
+    position: absolute;
+    width: 300px;
+    height: 35px;
+    left: 420px;
+    top: 125px;
+
+    /* White */
+
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    border-radius: 8px;
+}
+
+.dd{
+    position: absolute;
+    left: 280px;
+    top: 10px;
+}
+
+.TC11{
+    color:  #091F3A;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.TT18{
+    position:absolute;
+    top:100px;
+    left:730px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+}
+
+.TC30{
+    position: absolute;
+    width: 200px;
+    height: 35px;
+    left: 730px;
+    top: 125px;
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    border-radius: 8px;
+}
+
+.TC29{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+}
+
+.dd22{
+   position: absolute;
+   top:10px;
+   left:175px; 
+}
+
+.Thoigian22{
+    position: absolute;
+    top:100px;
+    left:950px; 
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+}
+
+.Boxxtime{
+    position: absolute;
+    top:125px;
+    left:950px;
+}
+
+.TT10{
+    position: absolute;
+    top:10px;
+    left:5px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+}
+
+.btnlogin15{
+    position: absolute;
+    top:125px;
+    left:1120px;
+    width: 80px;
+    height: 35px;
+    background: #2190CD;
+    /* Blue/5 */
+
+    border: 1px solid #2190CD;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.btnlogin16{
+    position: absolute;
+    top:125px;
+    left:1250px;
+    width: 100px;
+    height: 35px;
+    background: #2190CD;
+    /* Blue/5 */
+
+    border: 1px solid #2190CD;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.btnxuatfile{
+    color: #FFFFFF;
+}

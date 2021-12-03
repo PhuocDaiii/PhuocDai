@@ -1,0 +1,1008 @@
+.informationmain{
+    position: absolute;
+    width: 1090px;
+    height: 410px;
+    left: 250px;
+    top: 80px;
+
+    /* White */
+
+    background: #FFFFFF;
+    border-radius: 16px;
+}
+
+.infordevice{
+    position: absolute;
+    top:15px;
+    left:25px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.IMEI11{
+    position: absolute;
+    top:55px;
+    left:30px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.number999{
+    position: absolute;
+    top:55px;
+    left: 150px;
+    color: #114A69;
+    opacity: 0.8;
+}
+
+.datekichhoat{
+    position: absolute;
+    top:100px;
+    left:30px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.datepicker99{
+    position: absolute;
+    top:100px;
+    left: 150px;
+    color: #114A69;
+    opacity: 0.8;
+}
+
+.namedevice{
+    position: absolute;
+    top:145px;
+    left:30px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.ATM1001{
+    position: absolute;
+    top:145px;
+    left: 150px;
+    height: 30px;
+    width: 220px;
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+        
+}
+
+.qwertyui{
+    position: absolute;
+    top:150px;
+    left: 155px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;
+   
+}
+
+.typedevice{
+    position: absolute;
+    top:190px;
+    left:30px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+
+.ATM10011{
+    position: absolute;
+    top:190px;
+    left: 150px;
+    height: 30px;
+    width: 220px;
+    background: #FFFFFF;
+    /* Grey/3 */
+    
+    border: 1px solid #DEE1E2;
+    
+    border-radius: 8px;
+        
+}
+
+
+.qwertyuio{
+    position: absolute;
+    top:195px;
+    left: 155px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;
+   
+}
+
+.tiktoptop{
+    position: absolute;
+    top:195px;
+    left: 350px;
+}
+
+.simso{
+    position: absolute;
+    top:235px;
+    left:30px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+
+.unknow{
+    position: absolute;
+    top:235px;
+    left: 150px;
+    height: 30px;
+    width: 220px;
+    background: #FFFFFF;
+    /* Grey/4 */
+    
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+        
+}
+
+.unknow1{
+    position: absolute;
+    top:240px;
+    left: 160px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;
+}
+
+
+.addressbuild{
+    position: absolute;
+    top:290px;
+    left:30px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.addressbuild1{
+    position: absolute;
+    top:290px;
+    left: 150px;
+    height: 30px;
+    width: 240px;
+    background: #FFFFFF;
+    /* Grey/4 */
+    
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+        
+}
+
+.addressbuild2{
+    position: absolute;
+    top:295px;
+    left: 150px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;
+
+}
+
+
+.InstallNumberphone{
+    position: absolute;
+    top:15px;
+    left:420px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.emergencyphone{
+    position: absolute;
+    top:60px;
+    left:420px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.emergencyphone1{
+    position: absolute;
+    top:75px;
+    left:420px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+
+.NUMBERPHONE99{
+    position: absolute;
+    top:65px;
+    left:550px;
+    height: 30px;
+    width: 150px;
+    background: #FFFFFF;
+    /* Grey/4 */
+    
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.sdtex{
+    position: absolute;
+    top:65px;
+    left:560px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;
+}
+
+.point99{
+    position: absolute;
+    top:100px;
+    left:550px;
+}
+
+.themsodienthoaikhancap{
+    position: absolute;
+    top:100px;
+    left:580px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height, or 150% */
+
+    display: flex;
+    align-items: center;
+    text-align: right;
+    letter-spacing: 0.005em;
+
+    /* Blue/5 */
+
+    color: #2190CD;
+}
+
+.sdt99{
+    position: absolute;
+    top:135px;
+    left:420px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.emergency45{
+    position: absolute;
+    top:150px;
+    left:420px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.NUMBERPHONE100{
+    position: absolute;
+    top:135px;
+    left:550px;
+    height: 30px;
+    width: 150px;
+    background: #FFFFFF;
+    /* Grey/4 */
+    
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.sdt100{
+    position: absolute;
+    top:135px;
+    left:560px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;
+}
+
+
+.numberphone10999{
+    position: absolute;
+    top:170px;
+    left:550px;
+    height: 30px;
+    width: 150px;
+    background: #FFFFFF;
+    /* Grey/4 */
+    
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.hithaha{
+    position: absolute;
+    top:175px;
+    left:555px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Grey/4 */
+
+    color: #ACBCD1;
+}
+
+.daucongae{
+    position: absolute;
+    top:203px;
+    left:550px; 
+}
+
+.Thêmsốđiệnthoạinhậncuộcgọi{
+    position: absolute;
+    top:203px;
+    left:575px; 
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height, or 150% */
+
+    display: flex;
+    align-items: center;
+    text-align: right;
+    letter-spacing: 0.005em;
+
+    /* Blue/5 */
+
+    color: #2190CD;
+}
+
+
+.sdt9999{
+    position: absolute;
+    top:250px;
+    left:420px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.emergency4555{
+    position: absolute;
+    top:265px;
+    left:420px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+
+.emergency455555{
+    position: absolute;
+    top:255px;
+    left:550px;
+    height: 30px;
+    width: 150px;
+    background: #FFFFFF;
+    /* Grey/4 */
+    
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.emergency45555555{
+    position: absolute;
+    top:260px;
+    left:560px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;
+    
+}
+
+
+.Caution{
+    position: absolute;
+    top:15px;
+    left:750px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 23px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.Caution1{
+    position: absolute;
+    top:60px;
+    left:750px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.Caution11{
+    position: absolute;
+    top:60px;
+    left:945px;
+    width:124px;
+    height:35px;
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.Caution111{
+    position: absolute;
+    top:60px;
+    left:950px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;
+}
+
+
+.Caution2{
+    position: absolute;
+    top:115px;
+    left:750px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 23px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.Caution22{
+    position: absolute;
+    top:115px;
+    left:945px;
+    width:124px;
+    height:35px;
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.Caution222{
+    position: absolute;
+    top:120px;
+    left:950px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;
+}
+
+
+.Caution3{
+    position: absolute;
+    top:170px;
+    left:750px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 23px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+
+.Caution33{
+    position: absolute;
+    top:170px;
+    left:945px;
+    width:124px;
+    height:35px;
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.Caution333{
+    position: absolute;
+    top:175px;
+    left:950px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;
+}
+
+
+.Caution4{
+    position: absolute;
+    top:220px;
+    left:750px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 23px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.Caution44{
+    position: absolute;
+    top:220px;
+    left:945px;
+    width:124px;
+    height:35px;
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.Caution444{
+    position: absolute;
+    top:225px;
+    left:950px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;
+}
+
+.Caution5{
+    position: absolute;
+    top:280px;
+    left:750px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 23px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.Caution55{
+    position: absolute;
+    top:280px;
+    left:945px;
+    width:124px;
+    height:35px;
+    background: #FFFFFF;
+    /* Grey/4 */
+
+    border: 1px solid #ACBCD1;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.Caution555{
+    position: absolute;
+    top:285px;
+    left:950px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;
+}
+
+.BTNCancel{
+    width:100px;
+    height:35px;
+    position: absolute;
+    top:450px;
+    left:350px;
+    border: 1px solid #2190CD;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.search10189{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    
+  
+    text-align: center;
+    
+    /* Blue/5 */
+    
+    color: #2190CD;
+}
+
+.BTNsave{
+    width:100px;
+    height:35px;
+    position: absolute;
+    top:450px;
+    left:480px;
+    border: 1px solid #2190CD;
+    box-sizing: border-box;
+    border-radius: 8px;
+    background:#2190CD ;
+}
