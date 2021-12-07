@@ -18,6 +18,7 @@ import { Link } from 'react-router-dom';
 
 export default function Sidebar() {
     return (
+        
         <div className="sidebar">
             <div className="sidebarWrapper">
                 <div className="sidebarLogo">
@@ -25,10 +26,12 @@ export default function Sidebar() {
                 </div>
                 <h3 className="sidebarTittle">Tổng quan</h3>
                 <div className="Iconleft1">
+                   
                     <Link to="/Dashboard">
-                    <img src={Group} alt="" className="Dashboard" />
+                    <img src={Group} alt="" className="Dashboard " />
                      <p className="nameDashboard"> Dashboard</p>
                     </Link>
+                    
                     <Link to="/GSM">
                      <img src={Grommet} alt="" className="Grommet" />
                      <p className="GSM"> GSM Modern On Map</p>

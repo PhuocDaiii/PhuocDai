@@ -1,0 +1,1118 @@
+.informationATM{
+    position:absolute;
+    top:300px;
+    left:250px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.informationATMleft{
+    position: absolute;
+    width: 360px;
+    height: 300px;
+    left: 250px;
+    top: 330px;
+    
+    /* White */
+    
+    background: #FFFFFF;
+    border-radius: 16px;
+   
+
+}
+
+.ID0999{
+    position: absolute;
+    top:10px;
+    left:10px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.002em;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.Unknown99{
+    position: absolute;
+    top:10px;
+    left:100px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;   
+}
+
+
+.TTTT999{
+    position: absolute;
+    top:50px;
+    left:10px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.002em;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.dauchamxanhle{
+    position: absolute;
+    top:55px;
+    left:100px;
+   
+}
+
+.connecting123{
+    position: absolute;
+    top:50px;
+    left:120px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;
+}
+
+.typeconnecting{
+    position: absolute;
+    top:90px;
+    left:10px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.002em;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.nguonacmang{
+    position: absolute;
+    top:90px;
+    left:100px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;
+}
+
+
+.typedevice{
+    position: absolute;
+    top:130px;
+    left:10px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.002em;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.TBCB9999{
+    position: absolute;
+    top:130px;
+    left:100px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;
+}
+
+.AddressFollow{
+    position: absolute;
+    top:170px;
+    left:10px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.002em;
+    
+    /* Blue/7 */
+    
+    color: #114A69;
+    
+    opacity: 0.8;
+}
+
+
+.Address100000{
+    position: absolute;
+    top:170px;
+    left:130px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;
+}
+
+
+.ngaykichhoat98987{
+    position: absolute;
+    top:210px;
+    left:10px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.002em;
+    
+    /* Blue/7 */
+    
+    color: #114A69;
+    
+    opacity: 0.8;
+}
+
+.ngaykichhoat98986{
+    position: absolute;
+    top:210px;
+    left:130px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.8;
+}
+
+
+.thoigiantruyvan9898{
+    position: absolute;
+    top:250px;
+    left:10px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Enable */
+
+    color: #347AFF;
+
+    opacity: 0.8;
+}
+
+.thoigiantruyvan98987{
+    position: absolute;
+    top:250px;
+    left:150px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+
+    /* Enable */
+
+    color: #347AFF;
+
+    opacity: 0.8;
+}
+
+.lilwuyn{
+    position:absolute;
+    top:300px;
+    left:620px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+
+.informationATMCenter{
+    position: absolute;
+    width: 360px;
+    height: 300px;
+    left: 620px;
+    top: 330px;
+    
+    /* White */
+    
+    background: #FFFFFF;
+    border-radius: 16px;
+   
+
+}
+
+.informationATMRight{
+    position: absolute;
+    width: 360px;
+    height: 300px;
+    left: 990px;
+    top: 330px;
+    
+    /* White */
+    
+    background: #FFFFFF;
+    border-radius: 16px;
+   
+
+}
+
+.temprature11{
+    position: absolute;
+    top:10px;
+    left:10px;
+}
+
+.thirtysix{
+    position: absolute;
+    top:10px;
+    left:50px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.002em;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.high{
+    position: absolute;
+    top:10px;
+    left:280px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.5;
+
+}
+
+.rung108999{
+    position: absolute;
+    top:50px;
+    left:10px;
+}
+
+.rung1090{
+    position: absolute;
+    top:50px;
+    left:50px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.002em;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.normal{
+    position: absolute;
+    left: 320px;
+    top:50px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    /* Red */
+
+    color: #FF5B5B;
+}
+
+.ATMxanhnhe{
+    position: absolute;
+    top:90px;
+    left:10px;
+}
+
+.cuamayatm{
+    position: absolute;
+    top:90px;
+    left:50px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.002em;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.turnon{
+    position: absolute;
+    top:90px;
+    left:320px; 
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.5;
+}
+
+.atmhongnhe{
+    position: absolute;
+    top:130px;
+    left:10px;
+}
+
+.cuangoaimayatm{
+    position: absolute;
+    top:130px;
+    left:50px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.002em;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.turnon1{
+    position: absolute;
+    top:130px;
+    left:320px; 
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.5;
+}
+
+.cuaketmayatmvang{
+    position: absolute;
+    top:170px;
+    left:10px;
+}
+
+.cuaketmay{
+    position: absolute;
+    top:170px;
+    left:50px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.002em;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+
+}
+
+.turnon2{
+    position: absolute;
+    top:170px;
+    left:320px; 
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.5;
+}
+
+.DUPHONG{
+    position: absolute;
+    top:210px;
+    left:10px;
+}
+
+.duphong11{
+    position: absolute;
+    top:210px;
+    left:50px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.002em;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.turnoff{
+    position: absolute;
+    left:320px;
+    top:210px;
+    font-family: Mulish;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Blue/8 */
+
+color: #091F3A;
+
+opacity: 0.5;
+
+}
+
+.rungqua{
+    position: absolute;
+    top:250px;
+    left:10px;
+}
+
+.rungquatroi{
+    position: absolute;
+    top:250px;
+    left:50px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.002em;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.normal2{
+    position: absolute;
+    top:250px;
+    left:320px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.5;
+}
+
+.Caution9{
+    position:absolute;
+    top:300px;
+    left:1000px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.tele{
+    position: absolute;
+    top:10px;
+    left:10px;
+}
+
+.tele1{
+    position: absolute;
+    top:10px;
+    left:50px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.002em;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.turoff3{
+    position: absolute;
+    top:10px;
+    left:280px;
+    font-family: Mulish;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Blue/8 */
+
+color: #091F3A;
+
+opacity: 0.5;
+}
+
+.rodien999{
+       position: absolute;
+       top:50px;
+       left:10px; 
+}
+
+.rodien888{
+    position: absolute;
+    top:50px;
+    left:50px; 
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.002em;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.turoff4{
+    position: absolute;
+    top:50px;
+    left:280px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    /* Red */
+
+    color: #FF5B5B;
+}
+
+.khoi11{
+    position: absolute;
+    top:90px;
+    left:10px;
+}
+
+.khoi22{
+    position: absolute;
+    top:90px;
+    left:50px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.002em;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.turnon5{
+    position: absolute;
+    top:90px;
+    left:320px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.5;
+}
+
+.pinduphong11{
+    position: absolute;
+    top:130px;
+    left:10px;
+}
+
+.pinduphong22{
+    position: absolute;
+    top:130px;
+    left:50px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.002em;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.turnon6{
+    position: absolute;
+    top:130px;
+    left:320px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.5;
+}
+
+.Frame99{
+    position: absolute;
+    left:10px;
+    top:170px;
+}
+
+.DAN{
+    position: absolute;
+    left:50px;
+    top:170px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.002em;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.DAN11{
+    position: absolute;
+    top:170px;
+    left:185px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.5;
+}
+.baohieu{
+    position: absolute;
+    top:210px;
+    left:10px;
+}
+
+.baohieu1{
+    position: absolute;
+    top:210px;
+    left:50px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.002em;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.coihu{
+    position: absolute;
+    top:210px;
+    left:300px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    text-align: right;
+
+    /* Blue/8 */
+
+    color: #091F3A;
+
+    opacity: 0.5;
+}
+
+.Frame9999{
+    position:absolute;
+    top:250px;
+    left:10px;
+}
+
+.DAN222{
+    position:absolute;
+    top:250px;
+    left:50px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.002em;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.8;
+}
+
+.DAN222222{
+    position: absolute;
+    left:185px;
+    top:250px;
+    font-family: Mulish;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Blue/8 */
+
+color: #091F3A;
+
+opacity: 0.5;
+}

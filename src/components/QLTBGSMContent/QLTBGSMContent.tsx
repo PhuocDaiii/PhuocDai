@@ -13,12 +13,42 @@ import songxanh from '../../assets/2icon/Vector5.png';
 import bacham11 from '../../assets/2icon/bacham11.png';
 import { Link } from 'react-router-dom';
 
+
 import './QLTBGSMContent.css'
 
 
 export default function QLTBGSMContent() {
     
+    const menu = (
+        <Menu>
+            <Menu.Item>
 
+                <Link to="/caidatdropdwon" className="link">
+
+                    <a target="_blank" rel="noopener noreferrer" >
+                        <div className='blu0'>
+                           Cài Đặt 
+                        </div>
+                    </a>
+                </Link>
+
+            </Menu.Item>
+            <Menu.Item>
+                <a target="_blank" rel="noopener noreferrer" href="">
+                    <div className="blu0">
+                   Làm mới
+                    </div>
+                </a>
+            </Menu.Item>
+            <Menu.Item>
+                <a target="_blank" rel="noopener noreferrer" href="">
+                    <div className="re0">
+                        Xóa
+                    </div>
+                </a>
+            </Menu.Item>
+        </Menu>
+    );
 
 
 
@@ -37,13 +67,15 @@ export default function QLTBGSMContent() {
 
 
             </>,
-            anh2: <>
+            anh2: <><div className="dropdown10888">
                     <Link to="/Install">
-               
-                    <div >
+                    <Dropdown overlay={menu} placement="topRight" arrow>
+                    <div className="abcxyz1234">
                         <img src={bacham11} alt="" />
                     </div>
+                    </Dropdown>
                     </Link>
+                    </div>
             </>
         },
 
@@ -396,6 +428,11 @@ export default function QLTBGSMContent() {
     return (
         <div className="QLTBGSM11111">
             <Table dataSource={data} columns={colums} pagination={false}></Table>
+            <p className="hienthi9999913">Hiển thị</p>
+              <div className="otron13">
+                <p className="numberfourteen13">14</p>
+              </div>
+              <p className="row455413">hàng mỗi trang</p>
         </div>
     )
 }

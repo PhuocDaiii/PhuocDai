@@ -16,7 +16,7 @@ export default function QLTBGSMInstallContent() {
            <label className="namedevice">Tên thiết bị :</label>
            <input className="ATM1001"/>
            <p className="qwertyui">ATM - 1294345324</p>
-           <label className="typedevice">Loại thiết bị :</label>
+           <label className="typedevice111">Loại thiết bị  :</label>
            <input className="ATM10011"/>
            <p className="qwertyuio">Thiết bị cảnh báo dành cho máy ATM </p>
            <img src={DropDown} className="tiktoptop"/>

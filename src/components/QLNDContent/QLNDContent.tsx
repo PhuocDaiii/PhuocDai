@@ -522,7 +522,11 @@ export default function QLNDContent() {
     return (
         <div className="QLND55">
              <Table dataSource={data} columns={colums} pagination={false}></Table> 
-            
+             <p className="hienthi999991">Hiển thị</p>
+              <div className="otron1">
+                <p className="numberfourteen1">14</p>
+              </div>
+              <p className="row45541">hàng mỗi trang</p>
         </div>
     )
 }

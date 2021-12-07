@@ -16,7 +16,7 @@ export default function sidebar() {
                <div className="topRight">
                    <div className="Toplanguage">
                    <img src={VNM} alt="" className="topbarIcon"/>
-                   <p className="write">VNM </p>
+                   <p className="write111">VNM </p>
                    <img src={DropDown} alt="" className="dropdown"/>
 
                    

@@ -237,7 +237,11 @@ export default function AuditLogContent() {
     return (
         <div className="Auditlog">
               <Table dataSource={data} columns={colums} pagination={false}></Table> 
-            
+              <p className="hienthi9999912">Hiển thị</p>
+              <div className="otron12">
+                <p className="numberfourteen12">14</p>
+              </div>
+              <p className="row455412">hàng mỗi trang</p>
         </div>
     )
 }

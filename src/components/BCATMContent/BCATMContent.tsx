@@ -295,6 +295,11 @@ export default function BCATMContent() {
     return (
         <div className="table10">
             <Table dataSource={data} columns={colums} pagination={false}></Table> 
+            <p className="hienthi99999">Hiển thị</p>
+              <div className="otron">
+                <p className="numberfourteen">14</p>
+              </div>
+              <p className="row4554">hàng mỗi trang</p>
             
         </div>
     )

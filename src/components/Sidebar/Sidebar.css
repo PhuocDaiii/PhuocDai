@@ -41,7 +41,7 @@ border-radius: 12px;
 }
 .nameDashboard{
     position: absolute;
-    top:107px;
+    top:120px;
     left: 50px;
     font-family: Mulish;
     font-style: normal;
@@ -56,7 +56,7 @@ border-radius: 12px;
 }
 .GSM{
     position: absolute;
-    top:140px;
+    top:150px;
     left: 50px;
     font-family: Mulish;
     font-style: normal;
@@ -72,7 +72,7 @@ border-radius: 12px;
 }
 .QLCB{
     position: absolute;
-    top:170px;
+    top:180px;
     left: 50px;
     font-family: Mulish;
     font-style: normal;
@@ -98,7 +98,7 @@ border-radius: 12px;
 
 .BC{
     position: absolute;
-    top:250px;
+    top:260px;
     left: 50px;
     font-family: Mulish;
     font-style: normal;
@@ -115,7 +115,7 @@ border-radius: 12px;
 
 .BCATM{
     position: absolute;
-    top:275px;
+    top:285px;
     left: 50px;
     font-family: Mulish;
     font-style: normal;
@@ -141,7 +141,7 @@ border-radius: 12px;
 }
 .QTC{
     position: absolute;
-    top:363px;
+    top:370px;
     left: 50px;
     font-family: Mulish;
     font-style: normal;
@@ -157,7 +157,7 @@ border-radius: 12px;
 }
 .QLTB{
     position: absolute;
-    top:400px;
+    top:410px;
     left: 50px;
     font-family: Mulish;
     font-style: normal;
@@ -173,7 +173,7 @@ border-radius: 12px;
 }
 .QLND{
     position: absolute;
-    top:435px;
+    top:445px;
     left: 50px;
     font-family: Mulish;
     font-style: normal;
@@ -189,7 +189,7 @@ border-radius: 12px;
 }
 .Audit{
     position: absolute;
-    top:470px;
+    top:475px;
     left: 50px;
     font-family: Mulish;
     font-style: normal;

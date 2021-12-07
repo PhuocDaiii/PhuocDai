@@ -46,3 +46,84 @@
     top:170px;
     left:250px;
 }
+
+.hienthi99999{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 18px;
+    /* identical to box height, or 150% */
+
+    letter-spacing: 0.005em;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.7;
+    position: absolute;
+    left:25px;
+    top:835px;
+
+}
+
+.otron{
+    background: #FFFFFF;
+    /* Blue/4 */
+
+    border: 1px solid #6CB6DD;
+    box-sizing: border-box;
+    border-radius: 4px;
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 8px;
+    position: absolute;
+    left:80px;
+    top:833px;
+    width:40px;
+    height:25px;
+    
+}
+
+.numberfourteen{
+   
+    text-align: center;
+  
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height, or 150% */
+
+    letter-spacing: 0.005em;
+
+    /* Blue/7 */
+
+    color: #114A69;
+}
+
+.row4554{
+    position: absolute;
+    left:130px;
+    top:835px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 18px;
+    /* identical to box height, or 150% */
+
+    letter-spacing: 0.005em;
+
+    /* Blue/7 */
+
+    color: #114A69;
+
+    opacity: 0.7;
+}
